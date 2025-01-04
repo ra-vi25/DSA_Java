@@ -4,7 +4,7 @@ public class QueueClass {
 
     QueueClass (int max_size)
     {
-        //array initialization
+        //Queue array initialization
         queue_arr = new int[max_size];
         size = max_size;
         front = rear  = -1;
