@@ -1,3 +1,4 @@
+//Implementing Linear Queue using array
 public class QueueClass {
     // Array to hold queue elements
     int[] queue_arr;
